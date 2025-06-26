@@ -13,10 +13,12 @@ I am Gaurav Kumar
 <img align="left" alt="Solidity" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
 <img align="left" alt="Foundry" width="40px" style="padding-right:15px;" src="https://github.com/user-attachments/assets/aaf699b4-57e4-4f0c-8093-12c5469029e6" />
 <img align="left" alt="Chainlink" width="35px" style="padding-right:15px;" src="https://github.com/user-attachments/assets/cade9ff8-1a2a-493a-84b6-b6fc72de514b" />
+<img align="left" alt="IPFS" width="40px" style="padding-right:15px;" src="https://github.com/user-attachments/assets/c20b1bcb-7fe1-4fd4-a28c-920569133f96" />
 <img align="left" alt="Bash" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
 <!--
+
 **Gvkr93/Gvkr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
